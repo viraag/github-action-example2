@@ -21,7 +21,6 @@ public class CicDdemoApplication {
 	 * git branch -M main
 	 * git remote add origin https://github.com/viraag/github-actions-example2.git
 	 * git push -u origin main
-	 * @param args
 	 */
 	public static void main(String[] args) {
 		SpringApplication.run(CicDdemoApplication.class, args);
