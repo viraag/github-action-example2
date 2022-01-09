@@ -19,7 +19,7 @@ public class CicDdemoApplication {
 	 * git add README.md
 	 * git commit -m "first commit"
 	 * git branch -M main
-	 * git remote add origin https://github.com/viraag/github-actions-example.git
+	 * git remote add origin https://github.com/viraag/github-actions-example2.git
 	 * git push -u origin main
 	 * @param args
 	 */
