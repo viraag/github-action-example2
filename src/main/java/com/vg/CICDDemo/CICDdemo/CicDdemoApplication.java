@@ -8,13 +8,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @SpringBootApplication
 public class CicDdemoApplication {
+
+
 	@GetMapping("/welcome")
 	public String welcome(){
 		return "Welcome VG";
 	}
 
 	/**
-	 * echo "# github-actions-example" >> README.md
+	 *
 	 * git init
 	 * git add README.md
 	 * git commit -m "first commit"
